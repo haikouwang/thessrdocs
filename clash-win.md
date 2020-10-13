@@ -1,8 +1,7 @@
 # Windows - Clash
 
-- 系统要求： Windows 7 以上
-- 设备要求： Windows 计算机 & 平板
-- [点此下载软件安装包](https://download.{$DOMAIN}/Clash.for.Windows-0.5.35-win.zip)
+- 系统要求： 64 位的 Windows 7/10
+- [点此下载软件安装包](https://download.{$DOMAIN}/Clash.for.Windows.zip)
 
 > 此软件支持规则分流，推荐使用。
 
