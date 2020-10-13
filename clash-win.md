@@ -3,7 +3,8 @@
 - 系统要求： 64 位的 Windows 7/10
 - [点此下载软件安装包](https://download.{$DOMAIN}/Clash.for.Windows.zip)
 
-> 此软件支持规则分流，推荐使用。
+> 此软件分流规则 Blinkload 可以控制，推荐使用。
+> 软件使用过程中遇到问题，请更新订阅。
 
 ### 软件安装
 
